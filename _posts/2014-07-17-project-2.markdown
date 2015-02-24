@@ -5,7 +5,7 @@ date: 2014-07-17
 img: cake.png
 alt: image-alt
 project-date: January 2015
-description: For Project 2, my partner and I built an ideas network which we called Eureka! Eureka! is best described as "Reddit for ideas people". Ideas with any merit should rise to the top, while the less interesting ones should get downvoted. As you can see, both Reddit and Kickstarter inspired my partner and me. This project was completed in Ruby on Rails, after only 7 weeks of web dev experience. Vist Eureka! on Heroku <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Heroku</a>. 
+description: For Project 2, my partner and I built an ideas network which we called Eureka! Eureka! is best described as "Reddit for ideas people". Ideas with any merit should rise to the top, while the less interesting ones should get downvoted. As you can see, both Reddit and Kickstarter inspired my partner and me. This project was completed in Ruby on Rails, after only 7 weeks of web dev experience. Visit Eureka! on Heroku <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Heroku</a>. 
 
 
 ---
