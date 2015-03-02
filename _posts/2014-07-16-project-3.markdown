@@ -5,6 +5,6 @@ date: 2014-07-16
 img: circus.png
 alt: image-alt
 project-date: February 2015
-description: For Project 3, I was allowed to select my own project. I decided to build an odd jobs listing site for Lagosians, called the SpeciaList. I wanted to create a site for the less technologically advanced workers such as the carpenters, plumbers, and mechanics residing in the mega-city that is Lagos, Nigeria. With limited access to the internet, it is essential that these contractors be able to derive full functionality of the application via SMS. Therefore, Twilio implementation was essential to the success of my final project. Visiting the SpeciaList on <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Heroku</a>. 
+description: For Project 3, I was allowed to select my own project. I decided to build an odd jobs listing site for Lagosians, called the SpeciaList. I wanted to create a site for the less technologically advanced workers such as the carpenters, plumbers, and mechanics residing in the mega-city that is Lagos, Nigeria. With limited access to the internet, it is essential that these contractors be able to derive full functionality of the application via SMS. Therefore, Twilio implementation was essential to the success of my final project. Checkout out the SpeciaList <a href="https://www.speciaList.herokuapp.com">Here</a>. 
 
 ---
