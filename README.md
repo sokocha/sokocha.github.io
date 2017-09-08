@@ -35,6 +35,7 @@ For more details, read the [documentation](http://jekyllrb.com/)
 # Sadiq's Personal Website :rocket:
 Hi! I'm Sadiq and this is the markdown for my personal website.
 
+
 ![alt text](https://github.com/sokocha/sokocha.github.io/img/profile.png "Sadiq Okocha")
 ---
 ## Website Sections
