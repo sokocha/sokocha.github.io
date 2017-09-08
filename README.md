@@ -35,7 +35,15 @@ For more details, read the [documentation](http://jekyllrb.com/)
 # Sadiq's Personal Website
 Hi! I'm Sadiq and this is the markdown for my personal website.
 ---
-## Education
+## Website Sections
+On my personal site, you'll find the following pages:
+*[Portfolio] (http://sokocha.github.io/#portfolio)
+*[About] (http://sokocha.github.io/#about)
+*[Contact] (http://sokocha.github.io/#contact)
+
+
+
+### Education
 
  | Institution   | Degree        | Year  |
  | ------------- |:-------------:| -----:|
