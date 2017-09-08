@@ -32,8 +32,9 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 For more details, read the [documentation](http://jekyllrb.com/)
  -->
 
-# Sadiq's Personal Website :rocket:  :unicorn:
+# Sadiq's Personal Website :rocket:  
 Hi! I'm Sadiq and this is the markdown for my personal website.
+Follow me as I build my :unicorn: 
 
 ![My beautiful face](profile.png "Sadiq Okocha")
 ---
