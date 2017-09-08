@@ -39,9 +39,9 @@ Hi! I'm Sadiq and this is the markdown for my personal website.
 ---
 ## Website Sections
 On my personal site, you'll find the following pages:
-*[Portfolio] (http://sokocha.github.io/#portfolio)
-*[About] (http://sokocha.github.io/#about)
-*[Contact] (http://sokocha.github.io/#contact)
+[Portfolio] (http://sokocha.github.io/#portfolio)
+[About] (http://sokocha.github.io/#about)
+[Contact] (http://sokocha.github.io/#contact)
 
 
 
