@@ -33,6 +33,7 @@ For more details, read the [documentation](http://jekyllrb.com/)
  -->
 
 # Sadiq's Personal Website
+Hi! I'm Sadiq and this is the markdown for my personal website.
 
 ## Education
 
@@ -41,3 +42,4 @@ For more details, read the [documentation](http://jekyllrb.com/)
  | The University of Texas at Austin      | BSc. Petroleum Engineering | 2011 |
  | The University of York| MSc. Engineering Management    |   2015 |
 
+ ---
