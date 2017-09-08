@@ -37,6 +37,8 @@ Hi! I'm Sadiq and this is the markdown for my personal website.
 
 
 ![alt text](https://github.com/sokocha/sokocha.github.io/img/profile.png "Sadiq Okocha")
+![alt text](https://github.com/sokocha/sokocha.github.io/profile.png "Sadiq Okocha")
+(https://github.com/sokocha/sokocha.github.io/profile.png "Sadiq Okocha")
 ---
 ## Website Sections
 On my personal site, you'll find the following pages:
